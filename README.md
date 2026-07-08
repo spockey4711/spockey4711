@@ -37,10 +37,17 @@ A few smaller experiments (recipe app, daily dashboard, mail classifier) live in
 
 ---
 
-### 📊 GitHub
+### 📊 Activity
 
 [![Yannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=spockey4711&show_icons=true&hide_border=true&theme=graywhite)](https://github.com/spockey4711)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spockey4711&layout=compact&hide_border=true&theme=graywhite)](https://github.com/spockey4711)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=spockey4711&layout=compact&hide_border=true&theme=graywhite)](https://wakatime.com/@spockey4711)
+
+<!--
+  WakaTime card needs BOTH:
+    1. your public WakaTime username in the two URLs above (replace `spockey4711` if different)
+    2. WakaTime > Settings > enable "Display languages, editors, operating systems, categories publicly"
+-->
+
 
 ---
 
@@ -50,3 +57,4 @@ A few smaller experiments (recipe app, daily dashboard, mail classifier) live in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannik-wuenker)
 [![Email](https://img.shields.io/badge/Email-mail@yannikwuenker.de-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mail@yannikwuenker.de)
 
+*Open to working-student roles, internships and project collaborations.*
