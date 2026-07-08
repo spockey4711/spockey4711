@@ -40,7 +40,7 @@ A few smaller experiments (recipe app, daily dashboard, mail classifier) live in
 ### 📊 Activity
 
 [![Yannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=spockey4711&show_icons=true&hide_border=true&theme=graywhite)](https://github.com/spockey4711)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=spockey4711&layout=compact&hide_border=true&theme=graywhite)](https://wakatime.com/@spockey4711)
+[![wakatime](https://wakatime.com/badge/user/27bc6374-dcc4-400f-9a6d-50124a8b326d.svg)](https://wakatime.com/@27bc6374-dcc4-400f-9a6d-50124a8b326d)
 
 <!--
   WakaTime card needs BOTH:
