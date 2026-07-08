@@ -56,5 +56,3 @@ A few smaller experiments (recipe app, daily dashboard, mail classifier) live in
 [![Portfolio](https://img.shields.io/badge/Portfolio-yannikwuenker.de-0a0a0a?style=flat&logo=vercel&logoColor=white)](https://yannikwuenker.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannik-wuenker)
 [![Email](https://img.shields.io/badge/Email-mail@yannikwuenker.de-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mail@yannikwuenker.de)
-
-*Open to working-student roles, internships and project collaborations.*
